@@ -10,5 +10,23 @@
        <atom:link href="https://metallkunde.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
    
    
+     <item>
+       <title>Test1</title>
+       <link>https://metallkunde.github.io/post/test1/</link>
+       <pubDate>Sun, 07 Feb 2021 23:36:30 +0800</pubDate>
+       
+       <guid>https://metallkunde.github.io/post/test1/</guid>
+       <description></description>
+     </item>
+   
+     <item>
+       <title>Test</title>
+       <link>https://metallkunde.github.io/post/test/</link>
+       <pubDate>Sun, 07 Feb 2021 22:35:17 +0800</pubDate>
+       
+       <guid>https://metallkunde.github.io/post/test/</guid>
+       <description></description>
+     </item>
+   
  </channel>
 </rss>
