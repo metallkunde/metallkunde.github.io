@@ -1,0 +1,4 @@
+baseURL = "https://metallkunde.github.io/"
+languageCode = "en-us"
+title = "METALLKUNDE的镜子"
+theme = "beautifulhugo"
